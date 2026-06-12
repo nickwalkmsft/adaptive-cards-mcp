@@ -51,3 +51,5 @@ Building an agent for Teams? Start with the [Teams AI Library and developer docs
 ---
 
 *Vikrant Singh is a Principal Engineering Manager on Microsoft Teams - Conversational and AI Platform.*
+
+[dummy change to facilitate PR comments]
