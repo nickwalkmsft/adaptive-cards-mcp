@@ -34,6 +34,15 @@ Treat your agent's response format as a first-class design decision. For every a
 
 Building an agent for Teams? Start with the [Teams developer documentation](https://learn.microsoft.com/microsoftteams/platform/) and the [Adaptive Cards Designer](https://adaptivecards.microsoft.com/designer), and design your responses as cards from day one. That's how an agent stops talking and starts moving work forward.
 
+![adaptive-cards-mcp - 9 tools, 3 prompts, 924 tests](https://raw.githubusercontent.com/VikrantSingh01/adaptive-cards-mcp/main/media/hero.png)
+
+**Links:**
+- [npm](https://www.npmjs.com/package/adaptive-cards-mcp) - `npx adaptive-cards-mcp`
+- [MCP Registry](https://registry.modelcontextprotocol.io/?q=adaptive-cards-mcp)
+- [Agency Marketplace](https://vigilant-adventure-v9qpqwn.pages.github.io/playground/#plugins/adaptive-cards-mcp)
+- [Adaptive Cards Designer](https://adaptivecards.microsoft.com/designer)
+- [Watch the demo](https://github.com/user-attachments/assets/372655ce-776c-4e31-a77a-4b2f79f638d2)
+
 ---
 
 *Vikrant Singh is a Principal Engineering Manager on Microsoft Teams - Conversational and AI Platform.*
